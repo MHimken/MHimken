@@ -1,6 +1,6 @@
 Hi, I’m @MHimken. Yes. That's it for now.
 ...
-If you _really_ want you can visit my blog on manima.de
+If you _really_ want you can visit my blog on <https://manima.de>
 
 
 <!---
